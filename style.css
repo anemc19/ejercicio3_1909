@@ -1,0 +1,22 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    scroll-behavior: smooth;
+}
+
+label {
+    font-size: 80%;
+}
+
+legend {
+    font-weight: bold;
+}
+
+fieldset {
+    margin-top: 20px;
+}
+
+#titulo {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
